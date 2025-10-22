@@ -1,0 +1,6 @@
+streamlit
+pathway
+google-genai
+python-dotenv
+spacy
+
